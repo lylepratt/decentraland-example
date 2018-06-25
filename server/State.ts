@@ -1,9 +1,5 @@
 import { updateAll } from './ConnectedClients'
 
-//let state = {
-//  isDoorClosed: false
-//}
-
 interface INameToValueMap
 {
 	[key: string]: any;
